@@ -1,0 +1,4 @@
+Web development involves building and maintaining websites.
+It includes web design, web publishing, web programming, and database management.
+HTML, CSS, and JavaScript are core technologies for front-end development.
+Back-end development often uses languages like Python, Java, or PHP.

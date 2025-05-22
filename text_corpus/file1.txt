@@ -1,0 +1,4 @@
+Machine learning is a method of data analysis that automates analytical model building.
+It is a branch of artificial intelligence based on the idea that systems can learn from data.
+Machine learning algorithms build a model based on sample data, known as training data.
+This model can then make predictions or decisions without being explicitly programmed to do so.

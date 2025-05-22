@@ -1,0 +1,4 @@
+A computer network is a set of computers sharing resources located on or provided by network nodes.
+TCP/IP is the suite of communication protocols used to interconnect network devices on the internet.
+The key components of networking include routers, switches, and servers.
+Network protocols define rules for data exchange between devices.
